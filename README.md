@@ -14,8 +14,8 @@ The website is live at https://notransfer-c7ebf.web.app. If you want to run it o
 ```
 python run.py
 ```
-2. Open a web browser and go to the address the webserver is showing. For example: 127.0.0.1:8000
-3. Enjoy
+2. Open a web browser and go to the address the web server is showing (ex: 127.0.0.1:8000).
+3. Enjoy.
 
 ### Note :information_source:
 This project is connected to a separate database, hosted by firebase. Even if you run this project on your home computer, you will still have access to everything everybody has posted.
