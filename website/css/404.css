@@ -1,0 +1,23 @@
+html,
+body {
+    height: 100%;
+}
+
+.my-header {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #0b2841;
+}
+
+.my-title {
+    color: #ea1f0d;
+}
+
+.my-desc {
+    color: #ff8400;
+}
