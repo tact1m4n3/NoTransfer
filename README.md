@@ -1,15 +1,15 @@
 # NoTransfer
-> A sort of WeTransfer, but don't always get the proper file back
+> A sort of WeTransfer, but you don't always get the proper file back...
 
 ## Story :innocent:
-This lovely project was built for the April Timathon of 2022. We did our best to fit into the theme: *Make things a bit less ordinary*. This wasn't the first idea we had in mind, but since we had some tehnichal difficulties with the first one, we went with the latter one. I think it was a good choice since we are really happy about how this project turned out. We hope you will like it as well...
+This lovely project was built for the April Timathon of 2022. We did our best to fit into the theme: *Make things a bit less ordinary*. This wasn't the first idea we had in mind, but since we had some technical difficulties implementing the first one, we went with the latter one. I think it was a good choice since we are really happy about how this project turned out. We hope you will like it as well...
 
 ## Team :sunglasses: :handshake: :sunglasses:
 - Tudor Dicu
 - Vlad Bonciu
 
 ## Try it :point_left:
-The website is live at https://notransfer-c7ebf.web.app. If you want to run the website on your local machine, it is very easy to set up:
+The website is live at https://notransfer-c7ebf.web.app. If you want to run it on your local machine, it's very easy to set up:
 1. Create a local web server.
 ```
 python run.py
@@ -29,4 +29,4 @@ We tried to keep the code as organised and as clean as we could. If you are inte
 python3 run.py
 ```
 
-- :exclamation: The files you upload to this website **must not contain personal or sensitive information, or any kind of inappropriate content**, since everybody can download your file and see it.
+- :exclamation: The files you upload to this website **must not contain personal or sensitive information, or any kind of inappropriate content**, since everybody can download and see your file.
